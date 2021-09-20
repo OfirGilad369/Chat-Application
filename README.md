@@ -8,7 +8,7 @@
 ##### 2. in path: "/chat" run:
 ```npm start```
 
-### Installed libraries:
+### Installed libraries on "/chat":
 ##### 1. formik 
 ##### 2. redux 
 ##### 3. react-redux 
