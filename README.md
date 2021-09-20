@@ -18,3 +18,6 @@
 ##### 7. bootstrap
 ##### 8. jquery
 ##### 9. popper.js
+
+### Installed libraries on "/chatServer":
+##### 1. ws 
